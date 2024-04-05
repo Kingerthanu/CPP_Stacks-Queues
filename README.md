@@ -28,4 +28,6 @@ The User Will Be Able To Use The Terminal To Type A Number In Its Specified Rang
 
 -----------------------------------------------------------------------------
 
+**Features:**
+
 ![2024-01-1100-15-28-ezgif com-resize](https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/a64defe4-55e8-4607-bd29-f5410dc28571)
