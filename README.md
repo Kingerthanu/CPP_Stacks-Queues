@@ -14,4 +14,9 @@ Assignment taught me a lot about the need for queues and stacks and the (member/
  
 This Program Works To Fully Develop A Queue And Stack Object Based Upon Their ADTs
 
+
+<img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f83e224b-44df-4c49-9858-7c127d43acc5" alt="Cornstarch <3" width="55" height="49">
+
+-----------------------------------------------------------------------------
+
 ![2024-01-1100-15-28-ezgif com-resize](https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/a64defe4-55e8-4607-bd29-f5410dc28571)
