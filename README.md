@@ -28,7 +28,7 @@ The User Will Be Able To Use The Terminal To Type A Number In Its Specified Rang
 
 -----------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/fdeca673-6931-4215-98ab-d37038b8a842" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/fdeca673-6931-4215-98ab-d37038b8a842" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/fdeca673-6931-4215-98ab-d37038b8a842" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/fdeca673-6931-4215-98ab-d37038b8a842" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/fdeca673-6931-4215-98ab-d37038b8a842" alt="Cornstarch <3" width="55" height="49">
 
 **Features:**
 
