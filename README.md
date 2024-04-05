@@ -7,7 +7,7 @@ Assignment taught me a lot about the need for queues and stacks and the (member/
 
 ----------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f67aea81-da03-47bd-9fb2-ce2898f2d069" alt="Cornstarch <3" width="55" height="69">
+<img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f67aea81-da03-47bd-9fb2-ce2898f2d069" alt="Cornstarch <3" width="55" height="69"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f67aea81-da03-47bd-9fb2-ce2898f2d069" alt="Cornstarch <3" width="55" height="69"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f67aea81-da03-47bd-9fb2-ce2898f2d069" alt="Cornstarch <3" width="55" height="69"><img src="https://github.com/Kingerthanu/CPP_Stacks-Queues/assets/76754592/f67aea81-da03-47bd-9fb2-ce2898f2d069" alt="Cornstarch <3" width="55" height="69">
 
 
 **The Breakdown:**
